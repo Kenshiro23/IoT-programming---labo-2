@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kenji.theys@ap.be
+=======
+kenji.theys@student.ap.be
+>>>>>>> 4fa38f4951fc8c5f5af6fb0eeeb14221f75806f4
